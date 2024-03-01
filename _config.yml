@@ -1,0 +1,8 @@
+theme: minima
+title: "Student-Led Restorative Practices"
+gems:
+- jekyll-seo-tag
+permalink: date
+posts:
+  output: true
+  
