@@ -1,5 +1,5 @@
 theme: minima
-title: "Student-Led Restorative Practices"
+title: "Teacher Copilot"
 gems:
 - jekyll-seo-tag
 permalink: date
