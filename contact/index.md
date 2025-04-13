@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Contact
-summary: "Reach out to Teache-Copilot.com anytime to learn more"
+summary: "Reach out to Teacher-Copilot.com anytime to learn more"
 toplevel: Contact
 # toplevellink: /contact
 ---
