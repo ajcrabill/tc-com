@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Contact
-summary: "Reach out to StudentLedRP.org anytime; we're honored to be of service."
+summary: "Reach out to Teache-Copilot.com anytime to learn more"
 toplevel: Contact
 # toplevellink: /contact
 ---
@@ -11,5 +11,5 @@ toplevel: Contact
   Email<br/><input type="text" value="" name="email"><br/><br/>
   Message<br/><textarea type="text" value="" name="message"></textarea><br/><br/>
   <button type="submit">Send</button> 
-  <input type="hidden" value="slrp.org contact form" name="form">
+  <input type="hidden" value="tc.com contact form" name="form">
 </form>
